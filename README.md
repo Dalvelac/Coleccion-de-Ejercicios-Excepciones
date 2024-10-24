@@ -1,1 +1,1 @@
-# -Colecci-n-de-Ejercicios-Excepciones
+# Coleccion-de-Ejercicios-Excepciones
