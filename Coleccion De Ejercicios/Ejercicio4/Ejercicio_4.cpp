@@ -16,7 +16,7 @@ public:
 };
 
 void func3() {
-        throw Excepcion("Error en func3");
+        throw Excepcion("Error en func3a");
 }
 
 int main() {

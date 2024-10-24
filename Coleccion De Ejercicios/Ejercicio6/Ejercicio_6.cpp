@@ -14,5 +14,3 @@ int main() {
 
 }
 
-// terminate called after throwing an instance of 'std::runtime_error'
-// what(): Error en func3
